@@ -1,0 +1,14 @@
+.dart_tool/
+.git/
+.idea/
+android/
+ios/
+linux/
+macos/
+test/
+windows/
+pubspec.lock
+pubspec.yaml
+analysis_options.yaml
+README.md
+!build/web/
